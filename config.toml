@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
   favicon = "/images/favicon.ico"
   site_logo = ""
-  description = "ngmyのホームページです。"
+  description = "ngmy（永宮 悠大）のホームページ。"
   facebook = ""
   twitter = "https://twitter.com/ngmy"
   instagram = "https://instagram.com/ngmy"
