@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
   favicon = "/images/favicon.ico"
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "ngmyのホームページです。"
   facebook = ""
   twitter = "https://twitter.com/ngmy"
   instagram = "https://instagram.com/ngmy"
