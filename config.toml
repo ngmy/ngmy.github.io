@@ -41,3 +41,4 @@ enableRobotsTXT = true
   featured_image = "/images/background.jpg"
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
+  cover_dimming_class = "bg-black-40"
