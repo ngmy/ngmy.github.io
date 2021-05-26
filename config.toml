@@ -42,3 +42,4 @@ enableRobotsTXT = true
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
   cover_dimming_class = "bg-black-40"
+  body_classes = "noto-sans-jp bg-near-white"
