@@ -24,6 +24,7 @@ jobs:
       - name: Build
         env:
           HUGO_ENV: 'production'
+          TZ: 'Asia/Tokyo'
         run: hugo --minify
 
       - name: Deploy
