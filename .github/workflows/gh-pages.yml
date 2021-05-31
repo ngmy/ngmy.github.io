@@ -18,13 +18,13 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: latest
           extended: true
 
       - name: Build
         env:
-          HUGO_ENV: 'production'
-          TZ: 'Asia/Tokyo'
+          HUGO_ENV: production
+          TZ: Asia/Tokyo
         run: hugo --minify
 
       - name: Deploy
