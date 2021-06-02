@@ -17,6 +17,10 @@
     ;
 }
 
+.cover .bg-black-60 {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
 .qiita:hover {
   fill: #55C500;
 }
