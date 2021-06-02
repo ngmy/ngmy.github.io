@@ -17,13 +17,13 @@ other = "What's in this {{ .Type }}"
 other = "Related"
 
 [yourName]
-other = "お名前（必須）"
+other = "お名前"
 
 [emailAddress]
-other = "メールアドレス（必須）"
+other = "メールアドレス"
 
 [message]
-other = "お問い合わせ内容（必須）"
+other = "お問い合わせ内容"
 
 [emailRequiredNote]
 other = "メールアドレスは必須です。"
@@ -33,3 +33,9 @@ other = "送信する"
 
 [taxonomyPageList]
 other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+
+[required]
+other = "必須"
+
+[optional]
+other = "任意"
