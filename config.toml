@@ -40,6 +40,6 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/climbing.jpg"
   recent_posts_number = 2
-  custom_css = ["css/custom.css"]
   cover_dimming_class = "bg-black-40"
   body_classes = "noto-sans-jp bg-near-white"
+  ananke_process_css = true
