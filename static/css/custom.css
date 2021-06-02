@@ -17,10 +17,6 @@
     ;
 }
 
-.bg-top {
-  background-position: center center !important;
-}
-
 .qiita:hover {
   fill: #55C500;
 }
