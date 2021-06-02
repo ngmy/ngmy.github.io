@@ -22,5 +22,22 @@
 }
 
 .qiita:hover {
-  fill: #55C500;
+  fill: #55c500;
+}
+
+.required {
+  background: #ff1a00;
+}
+
+.optional {
+  background: #999999;
+}
+
+.required,
+.optional {
+  color: #ffffff;
+  font-size: 12px;
+  margin-right: 10px;
+  padding: 5px 10px;
+  letter-spacing: 0.2em;
 }
