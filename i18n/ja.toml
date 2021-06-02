@@ -17,13 +17,13 @@ other = "What's in this {{ .Type }}"
 other = "Related"
 
 [yourName]
-other = "お名前"
+other = "お名前（必須）"
 
 [emailAddress]
-other = "メールアドレス"
+other = "メールアドレス（必須）"
 
 [message]
-other = "お問い合わせ内容"
+other = "お問い合わせ内容（必須）"
 
 [emailRequiredNote]
 other = "メールアドレスは必須です。"
