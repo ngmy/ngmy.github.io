@@ -17,7 +17,7 @@ ngmy（永宮悠大）のホームページです。
    ```console
    hugo server --ignoreCache
    ```
-4. `config.toml`を編集する
+4. コンテンツを作成・編集・削除する
 5. masterブランチにプッシュする
    ```console
    git push origin master
