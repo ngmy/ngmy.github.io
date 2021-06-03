@@ -1,5 +1,5 @@
 # ngmy.github.io
-ngmy（永宮 悠大）のホームページ。
+ngmy（永宮悠大）のホームページです。
 
 ## 公開先
 [GitHub Pages](https://ngmy.github.io/)
@@ -9,13 +9,17 @@ ngmy（永宮 悠大）のホームページ。
    ```console
    git clone https://github.com/ngmy/ngmy.github.io.git
    ```
-2. Hugoサーバーを起動する
+2. 依存関係をインストールする
+   ```console
+   npm install
+   ```
+3. Hugoサーバーを起動する
    ```console
    hugo server --ignoreCache
    ```
-3. `config.toml`を編集する
-4. masterブランチにプッシュする
+4. `config.toml`を編集する
+5. masterブランチにプッシュする
    ```console
    git push origin master
    ```
-5. [ビルド](https://github.com/ngmy/ngmy.github.io/actions/workflows/gh-pages.yml)が無事完了したらGitHub Pagesに公開される
+6. [ビルド](https://github.com/ngmy/ngmy.github.io/actions/workflows/gh-pages.yml)が無事完了したらGitHub Pagesに公開される

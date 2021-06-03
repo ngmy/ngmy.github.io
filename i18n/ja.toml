@@ -8,7 +8,7 @@ other = "All {{.Title }}"
 other = "Recent {{.Title }}"
 
 [readMore]
-other = "read more"
+other = "もっと読む"
 
 [whatsInThis]
 other = "What's in this {{ .Type }}"

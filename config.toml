@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
   favicon = "/images/favicon.ico"
   site_logo = ""
-  description = "ngmy（永宮 悠大）のホームページ。"
+  description = "ngmy（永宮悠大）のホームページです。"
   facebook = ""
   twitter = "https://twitter.com/ngmy"
   instagram = "https://instagram.com/ngmy"
@@ -43,3 +43,4 @@ enableRobotsTXT = true
   cover_dimming_class = "bg-black-40"
   body_classes = "noto-sans-jp bg-near-white"
   ananke_process_css = true
+  mainSections = ["post"]
