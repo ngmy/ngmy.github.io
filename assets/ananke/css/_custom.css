@@ -42,7 +42,7 @@
   letter-spacing: 0.2em;
 }
 
-@media screen and (min-width: 481px) and (max-width: 768px) {
+@media screen and (max-width: 896px) {
   .pv6 {
       padding-top: 0;
   }
