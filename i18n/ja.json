@@ -1,7 +1,7 @@
 {
     "about": "About",
     "blog": "Blog",
-    "certifications": "資格",
+    "certifications": "Certifications",
     "creations": "Creations",
     "contact": "Contact",
     "contributions":"Open Source",
@@ -9,7 +9,7 @@
     "experience": "Experience",
     "publications": "Presentations",
     "skills": "Skills",
-    "socialization": "ソーシャルアカウント",
+    "socialization": "Socialization",
     "contactFormInputLabelName": "お名前",
     "contactFormInputLabelEmail": "メールアドレス",
     "contactFormInputLabelMessage": "お問い合わせ内容",
