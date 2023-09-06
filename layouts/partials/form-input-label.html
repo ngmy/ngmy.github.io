@@ -1,0 +1,12 @@
+<label for="{{ .name }}">
+  {{ if .required }}
+    <span class="required">
+      {{ i18n "formInputLabelRequired" }}
+    </span>
+  {{ else }}
+    <span class="optional">
+      {{ i18n "formInputLabelOptional" }}
+    </span>
+  {{ end }}
+  {{ .label }}
+</label>

@@ -1,0 +1,19 @@
+{
+    "about": "About",
+    "blog": "Blog",
+    "certifications": "資格",
+    "creations": "Creations",
+    "contact": "Contact",
+    "contributions":"Open Source",
+    "education": "Education",
+    "experience": "Experience",
+    "publications": "Presentations",
+    "skills": "Skills",
+    "socialization": "ソーシャルアカウント",
+    "contactFormInputLabelName": "お名前",
+    "contactFormInputLabelEmail": "メールアドレス",
+    "contactFormInputLabelMessage": "お問い合わせ内容",
+    "formInputLabelRequired": "必須",
+    "formInputLabelOptional": "任意",
+    "formSubmit": "送信"
+}

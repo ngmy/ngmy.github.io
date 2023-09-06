@@ -1,0 +1,19 @@
+[
+    {
+        "name": "システムアーキテクト試験",
+        "badge": "/img/sa.png"
+    },
+    {
+        "name": "情報セキュリティスペシャリスト試験（現・情報処理安全確保支援士試験）",
+        "badge": "/img/sc.png"
+    },
+    {
+        "name": "ソフトウェア開発技術者試験（現・応用情報技術者試験）",
+        "badge": "/img/ap.png"
+    },
+    {
+        "name": "Linux Professional Institute Certification Level 1（LPIC-1）",
+        "badge": "/img/lpic-lv1.png",
+        "proof": "https://cs.lpi.org/caf/Xamman/certification/process_verify?lpi_id=LPI000239314&ver_code=3shslhcuk2"
+    }
+]

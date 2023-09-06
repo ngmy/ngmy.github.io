@@ -1,0 +1,77 @@
+[
+    {
+        "grouping": "設計手法",
+        "skills": [
+            "オブジェクト指向設計",
+            "ドメイン駆動設計"
+        ]
+    },
+    {
+        "grouping": "プログラミング言語",
+        "skills": [
+            "PHP",
+            "JavaScript"
+        ]
+    },
+    {
+        "grouping": "フレームワーク",
+        "skills": [
+            "Laravel",
+            {
+                "name": "Vue.js",
+                "icon": "vuejs"
+            },
+            "jQuery"
+        ]
+    },
+    {
+        "grouping": "データベース",
+        "skills":[
+             "MySQL",
+             "Redis",
+             "memcached",
+             {
+                  "name": "Firestore",
+                  "icon": "firebase"
+             }
+        ]
+    },
+    {
+        "grouping": "Webサーバー",
+        "skills": [
+            "nginx",
+            "Apache"
+        ]
+    },
+    {
+        "grouping": "クラウドプラットフォーム",
+        "skills": [
+            {
+                "name": "AWS",
+                "icon": "amazonwebservices"
+            },
+            {
+                "name": "GCP",
+                "icon": "googlecloud"
+            },
+            "Heroku",
+            "Firebase"
+      ]
+    },
+    {
+        "grouping": "その他開発環境",
+        "skills": [
+            "Docker",
+            {
+                "name": "WSL",
+                "icon": "windows8"
+            },
+            {
+                "name": "Mac",
+                "icon": "apple"
+            },
+            "Linux",
+            "Vim"
+      ]
+    }
+]
