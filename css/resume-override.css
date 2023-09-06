@@ -9,10 +9,14 @@ h4,
 h5,
 h6 {
   font-family: 'Noto Sans JP', sans-serif;
+  word-break: break-word;
+  word-wrap: break-word;
 }
 
 .subheading {
   font-family: 'Noto Sans JP', sans-serif;
+  word-break: break-word;
+  word-wrap: break-word;
 }
 
 .fa-qiita:before {
