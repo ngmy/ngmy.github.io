@@ -26,6 +26,7 @@ sections = [
   "experience",
   "education",
 ]
+gitCommitPrefix = "https://github.com/ngmy/ngmy.github.io/commit/"
 firstNameJa = "悠大"
 lastNameJa = "永宮"
 firstNameKana = "ユウタ"
