@@ -1,5 +1,6 @@
 body {
   font-family: 'Noto Sans JP', sans-serif;
+  font-feature-settings: 'palt';
 }
 
 h1,
@@ -8,15 +9,19 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Saira Extra Condensed', 'Noto Sans JP', sans-serif;
   word-break: break-word;
   word-wrap: break-word;
 }
 
 .subheading {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Saira Extra Condensed', 'Noto Sans JP', sans-serif;
   word-break: break-word;
   word-wrap: break-word;
+}
+
+.tags {
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
 .fa-qiita:before {
