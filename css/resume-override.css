@@ -1,0 +1,53 @@
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.subheading {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.fa-qiita:before {
+  content: '';
+  background-image: url(/img/qiita.png);
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-size: contain;
+  vertical-align: text-top;
+}
+
+.btn-primary {
+  background-color: #BD5D38 !important;
+  border-color: #BD5D38 !important;
+}
+
+.btn-primary:hover {
+  background-color: #824027 !important;
+  border-color: #824027 !important;
+}
+
+.required {
+  background-color: #BD5D38;
+}
+
+.optional {
+  background: gray;
+}
+
+.required,
+.optional {
+  color: #ffffff;
+  font-size: small;
+  margin-right: 0.5rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+}
