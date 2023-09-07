@@ -1,5 +1,5 @@
 # ngmy.github.io
-ngmy（永宮悠大）のホームページです。
+永宮悠大のホームページです。
 
 ## 公開先
 [GitHub Pages](https://ngmy.github.io/)
