@@ -6,10 +6,10 @@
   "description": "<a href=\"https://deployer.org/\">Deployer</a>のデプロイを管理するためのWebユーザーインターフェイスです。",
   "tags": [
     "OSS",
-    "PHP",
-    "Laravel",
     "Deployer",
-    "Webユーザーインターフェイス"
+    "Webユーザーインターフェイス",
+    "PHP",
+    "Laravel"
   ],
   "fact": "1.02K \"downloads\" from Packagist",
   "featured": true
