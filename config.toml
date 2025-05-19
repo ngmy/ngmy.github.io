@@ -10,7 +10,7 @@ defaultContentLanguage = "ja"
 
 [params]
 address = ""
-email = "y.nagamiya+work@gmail.com"
+email = ""
 favicon = "/favicon.ico"
 firstName = "Yuta"
 lastName = "Nagamiya"
