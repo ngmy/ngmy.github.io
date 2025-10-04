@@ -15,7 +15,7 @@
    ```
 3. Hugoサーバーを起動する。
    ```console
-   docker-compose up -d
+   docker compose up -d
    ```
 4. コンテンツを作成・編集・削除する。
 5. [http://localhost:1313/](http://localhost:1313/)で作成・編集・削除結果を確認する。
