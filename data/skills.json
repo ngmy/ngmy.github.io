@@ -17,11 +17,11 @@
         "grouping": "フレームワーク",
         "skills": [
             "Laravel",
+            "Livewire",
             {
                 "name": "Vue.js",
                 "icon": "vuejs"
-            },
-            "jQuery"
+            }
         ]
     },
     {
@@ -29,7 +29,6 @@
         "skills":[
              "MySQL",
              "Redis",
-             "memcached",
              {
                   "name": "Firestore",
                   "icon": "firebase"
@@ -39,8 +38,7 @@
     {
         "grouping": "Webサーバー",
         "skills": [
-            "nginx",
-            "Apache"
+            "nginx"
         ]
     },
     {
@@ -59,16 +57,12 @@
         ]
     },
     {
-        "grouping": "その他開発環境",
+        "grouping": "開発環境",
         "skills": [
             "Docker",
             {
                 "name": "WSL",
-                "icon": "windows8"
-            },
-            {
-                "name": "Mac",
-                "icon": "apple"
+                "icon": "windows11"
             },
             "Linux",
             "Vim"

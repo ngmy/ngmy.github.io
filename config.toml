@@ -43,10 +43,6 @@ trackerID = "G-20TT5CYF3T"
 link = "https://github.com/ngmy"
 name = "GitHub"
 
-[[params.handles]]
-link = "https://qiita.com/ngmy"
-name = "Qiita"
-
 [outputs]
 home = ["HTML", "JSON"]
 
