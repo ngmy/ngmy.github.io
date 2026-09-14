@@ -1,9 +1,10 @@
 {
   "title": "Webloyer",
-  "date": "2018-02-11T12:41:05-05:00",
+  "date": "2023-09-06T20:19:37+09:00",
+  "weight": 4,
   "link": "https://github.com/ngmy/webloyer",
   "image": "/img/webloyer.png",
-  "description": "<a href=\"https://deployer.org/\">Deployer</a>のデプロイ管理用Web画面です。",
+  "description": "<a href=\"https://deployer.org/\">Deployer</a>のデプロイを管理できるWebアプリです。",
   "tags": [
     "OSS",
     "Deployer",
@@ -15,4 +16,4 @@
   "featured": true
 }
 
-[Deployer](https://deployer.org/)のデプロイ管理用Web画面です。
+[Deployer](https://deployer.org/)のデプロイを管理できるWebアプリです。
